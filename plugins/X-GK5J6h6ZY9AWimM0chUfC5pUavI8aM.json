@@ -2,7 +2,7 @@
     "schemaVersion": 1,
     "metadata": {
         "plugin": "copilot",
-        "version": "1.0.0",
+        "version": "4.0.15",
         "title": "Copilot",
         "description": "Copilot Localization & Tweaks",
         "language": "zh-cn",
